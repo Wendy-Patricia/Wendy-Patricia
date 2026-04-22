@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi, I'm Wendy<br><br>- Computer Science student at Institute Universitare de Technologie Saint-Dié<br>- Passionate Web Developer focused on building modern, scalable, and user-friendly applications.<br>- Experienced with technologies like Laravel,Symfony, Springboot, Vue.js, WordPress, and REST APIs.<br>- Strong interest in backend development, system configuration, and problem-solving.<br>- Currently working on real-world projects, including client portals and custom web solutions.<br>- Always learning and improving my skills in software development and best practices.
+## Hi, I'm Wendy
+- Computer Science student at Institute Universitare de Technologie Saint-Dié<br>- Passionate Web Developer focused on building modern, scalable, and user-friendly applications.<br>- Experienced with technologies like Laravel,Symfony, Springboot, Vue.js, WordPress, and REST APIs.<br>- Strong interest in backend development, system configuration, and problem-solving.<br>- Currently working on real-world projects, including client portals and custom web solutions.<br>- Always learning and improving my skills in software development and best practices.
 
 
 ## 🌐 Socials:
